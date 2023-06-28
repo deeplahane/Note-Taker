@@ -1,0 +1,44 @@
+body{
+	
+}
+
+.navbar .nav-item:hover .nav-link{
+	color:#C5C6D0;
+} 
+
+.bg-custom{
+	background-color:#212529;
+	padding-top:12px;
+	height:62px;
+	padding-bottom:5px;
+}
+
+.dev-div{
+		margin-top:5px;
+}
+
+.dev-name{
+	padding-top:5px;
+	color:#e3242b;
+}
+
+.login-container{
+	margin-top:50px;
+}
+
+.admin-div{
+	padding:46px;
+	padding-bottom:0;
+	color:#343a40;
+
+}
+
+.home-div{
+	padding-top:20px;
+	margin-right:100px;
+	color:#343a40;
+}
+
+.con-hom{
+	margin-bottom:10px;
+}
